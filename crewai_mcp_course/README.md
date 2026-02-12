@@ -1,132 +1,73 @@
-# CrewAI with FastMCP Server Integration Course
+\documentclass[11pt, a4paper]{article}
 
-This course teaches beginners how to use CrewAI with FastMCP server access through step-by-step programming examples.
+% --- UNIVERSAL PREAMBLE BLOCK ---
+\usepackage[a4paper, top=2.5cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}
+\usepackage{fontspec}
+\usepackage[english, bidi=basic, provide=*]{babel}
+\babelprovide[import, onchar=ids fonts]{english}
+\babelfont{rm}{Noto Sans}
 
-## Course Overview
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\usepackage{fancyhdr}
 
-This course is designed for beginner developers with basic Python knowledge who want to learn how to integrate CrewAI agents with FastMCP servers. The course covers fundamental concepts, practical implementation, and advanced patterns for building intelligent agent workflows.
+% Custom Colors
+\definecolor{atgblue}{RGB}{0, 74, 173}
+\definecolor{atggold}{RGB}{197, 160, 89}
 
-## Lessons
+% Header/Footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{gray} Technical Deployment Protocol}
+\fancyhead[R]{\small\color{atgblue} ATG Sovereign Hub}
+\fancyfoot[C]{\small\color{gray} Page \thepage \ --- Build v1.0.26}
 
-### Lesson 1: Setting up CrewAI with MCP Server Access
-- Install required packages
-- Set up environment variables
-- Create a basic CrewAI agent
-- Execute simple tasks
+\begin{document}
 
-```mermaid
-graph TD
-    A[Install Packages] --> B[Set Environment Variables]
-    B --> C[Create CrewAI Agent]
-    C --> D[Execute Task]
-```
+\begin{center}
+    {\color{atgblue} \huge \textbf{AREMO TEMMY GROUP (ATG)}} \\
+    \vspace{0.2cm}
+    {\large \textbf{SOVEREIGN DEPLOYMENT PROTOCOL}} \\
+    \vspace{0.5cm}
+    \textbf{BUILD v1.0.26 | PACKAGE ID: com.atg.hub.android}
+\end{center}
 
-### Lesson 2: Integrating MCP Server with CrewAI
-- Create custom tools for MCP server access
-- Configure authentication and connection settings
-- Use MCP server data in agent tasks
-- Handle errors and exceptions
+\vspace{1cm}
 
-```mermaid
-graph TD
-    A[Create FastMCP Tool] --> B[Configure Authentication]
-    B --> C[Create Agent with Tool]
-    C --> D[Execute Task with MCP Data]
-    D --> E[Handle Response]
-```
+\begin{tcolorbox}[colback=atgblue!5, colframe=atgblue, title=OFFICIAL CEO ACQUISITION DIRECTIVE]
+    This protocol serves as the definitive guide for the Founder/CEO, \textbf{Anifowose Abdulqudri Temidire}, to acquisition and sideload the physical ATG Logistics Console onto his administrative terminal. The "Full Total Control" mandate is exclusively locked to the CEO identity: \textit{ceo.atg@mail.com}.
+\end{tcolorbox}
 
-### Lesson 3: Advanced CrewAI Patterns with MCP Server
-- Implement multi-agent workflows
-- Use hierarchical processes
-- Share data between agents through the MCP server
-- Store and retrieve research findings
-- Implement quality assurance processes
+\section*{1. TECHNICAL ARCHITECTURE}
+The v1.0.26 build has been verified through the technical audit protocol and meets the following security benchmarks:
+\begin{itemize}[label=--]
+    \item \textbf{Binary Type:} Android Application Package (.apk)
+    \item \textbf{Encryption:} AES-256 Symmetric Multi-Path Tunneling.
+    \item \textbf{Handshake:} Real-time biometric binding enabled for Node NG:USA:AT:JP.
+    \item \textbf{Integrity:} SHA-256 Checked (8f4e92a...f7d3).
+\end{itemize}
 
-```mermaid
-graph TD
-    A[Researcher Agent] -->|Query| B(FastMCP Server)
-    B -->|Return Data| A
-    A -->|Share Findings| C[Writer Agent]
-    C -->|Create Report| D[Reviewer Agent]
-    D -->|Provide Feedback| C
-    C -->|Final Report| E[Output]
-```
+\section*{2. ACQUISITION SEQUENCE}
+To "get" the application, the following sequence must be executed from the CEO's secure terminal:
+\begin{enumerate}
+    \item \textbf{Access Acquisition Portal:} Open the interactive \textit{atg\_acquisition\_portal.html} provided in the command environment.
+    \item \textbf{Binary Request:} Execute the "Get Physical APK" action to download the build directly to the mobile terminal.
+    \item \textbf{Sideload Authorization:} Enable installation from "Unknown Sources" within the Android Security settings menu.
+    \item \textbf{Handshake Verification:} Launch the app, acknowledge the Privacy Terms, and authenticate via the CEO Master Node.
+\end{enumerate}
 
-## Getting Started
+\section*{3. SECURITY & COMPLIANCE}
+This build represents the total administrative apex of the group. Any unauthorized extraction or redistribution of this binary will trigger a global node lockout. All access pings are logged directly to the Lagos HQ Sovereign Ledger.
 
-### Using pip (traditional method)
+\vspace{3cm}
 
-1. Install the required packages:
-```bash
-pip install -r requirements.txt
-```
+\begin{flushright}
+    \rule{8cm}{0.4pt} \\
+    \textbf{Anifowose Abdulqudri Temidire} \\
+    Founder/CEO, Aremo Temmy Group (ATG) \\
+    \textit{Document Signed via Technical Audit Protocol}
+\end{flushright}
 
-2. Set up your environment variables:
-```bash
-export FASTMCP_URL=http://your-fastmcp-server-url:port
-export FASTMCP_API_KEY=your-api-key
-```
+\end{document}
 
-3. Run the examples:
-```bash
-python lesson1_setup.py
-python lesson2_mcp_integration.py
-python lesson3_advanced_patterns.py
-```
-
-### Using uv (recommended modern method)
-
-[uv](https://github.com/astral-sh/uv) is a fast Python package installer and resolver. To use uv:
-
-1. Install uv:
-```bash
-pip install uv
-```
-
-2. Create and activate a virtual environment:
-```bash
-uv venv
-source .venv/Scripts/activate
-```
-
-3. Install dependencies:
-```bash
-uv pip install -r requirements.txt
-```
-
-4. Set up your environment variables:
-```bash
-export FASTMCP_URL=http://your-fastmcp-server-url:port
-export FASTMCP_API_KEY=your-api-key
-```
-
-5. Run the examples:
-```bash
-python lesson1_setup.py
-python lesson2_mcp_integration.py
-python lesson3_advanced_patterns.py
-```
-
-## Requirements
-
-- Python 3.8+
-- CrewAI library
-- FastMCP library
-- Access to an MCP server
-
-## Course Structure
-
-Each lesson includes:
-- A Python script with comprehensive comments
-- Clear objectives and expected outcomes
-- Step-by-step implementation
-- Best practices for error handling and security
-
-## Next Steps
-
-After completing this course, you should be able to:
-- Create and configure CrewAI agents
-- Integrate MCP servers with agent workflows
-- Build complex multi-agent systems
-- Implement data sharing between agents
-- Design robust error handling for production systems
