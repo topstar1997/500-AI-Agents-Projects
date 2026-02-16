@@ -67,6 +67,7 @@ Whether you're a developer, researcher, or business enthusiast, this repository 
 | **MediSuite-Ai-Agent**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         | 
 | **Lina-Egyptian-Medical-Chatbot**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         |
 
+| **PM Skills**  | Product Management  | 24 agent skills for the full product lifecycle, following the agentskills.io spec. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/product-on-purpose/pm-skills) |
 ## Framework wise Usecases
 
 ---
