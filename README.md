@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=ashishpatel26&project=500-AI-Agents-Projects&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # 🌟 500+ AI Agent Projects / UseCases
 
 [![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/500--AI--Agents--Projects-UseCase-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/ashishpatel26/500-AI-Agents-Projects)
