@@ -66,6 +66,9 @@ Whether you're a developer, researcher, or business enthusiast, this repository 
 | **Vibe Hacking Agent**                | Cybersecurity    | Autonomous Multi-Agent Based Red Team Testing Service.   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/PurpleAILAB/Decepticon) |
 | **MediSuite-Ai-Agent**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         | 
 | **Lina-Egyptian-Medical-Chatbot**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         |
+| **AgentVault** | Security | Secure credential manager for AI agents with cross-agent sharing and encryption. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/nKOxxx/AgentVault) |
+| **2ndCTO** | Developer Tools | AI technical co-founder service that provides architecture guidance and code review. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/nKOxxx/2ndCTO) |
+| **Mnemo** | Infrastructure | Long-term memory system for AI agents with project-based data lake architecture. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/nKOxxx/Mnemo) |
 
 ## Framework wise Usecases
 
