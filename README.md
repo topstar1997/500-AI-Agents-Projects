@@ -66,6 +66,7 @@ Whether you're a developer, researcher, or business enthusiast, this repository 
 | **Vibe Hacking Agent**                | Cybersecurity    | Autonomous Multi-Agent Based Red Team Testing Service.   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/PurpleAILAB/Decepticon) |
 | **MediSuite-Ai-Agent**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         | 
 | **Lina-Egyptian-Medical-Chatbot**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         |
+| **Fermi Agent Society**  | AI Research  | A self-governing society of 8 AI agents with constitutional governance, democratic voting, pheromone signals, and 50 runs of autonomous operation data. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/ekreloff/ai-agent-society)                                         |
 
 ## Framework wise Usecases
 
