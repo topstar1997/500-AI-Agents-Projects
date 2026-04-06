@@ -8,6 +8,7 @@ A curated collection of AI agent use cases across industries, showcasing practic
 
 ---
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. Includes task registry, quality gates, automated delegation, and 30-minute heartbeat monitoring. MIT licensed.
 ## 📋 Table of Contents
 
 - [Introduction](#introduction)
