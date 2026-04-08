@@ -73,30 +73,31 @@ Whether you're a developer, researcher, or business enthusiast, this repository 
 
 ### **Framework Name**: **CrewAI**
 
-| Use Case                         | Industry                | Description                                                                                  | GitHub                                                                                                                                         |
-| -------------------------------- | ----------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 📧 Email Auto Responder Flow     | 🗣️ Communication      | Automates email responses based on predefined criteria to enhance communication efficiency.  | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/email_auto_responder_flow)  |
-| 📝 Meeting Assistant Flow        | 🛠️ Productivity       | Assists in organizing and managing meetings, including scheduling and agenda preparation.    | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/meeting_assistant_flow)     |
-| 🔄 Self Evaluation Loop Flow     | 👥 Human Resources      | Facilitates self-assessment processes within an organization, aiding in performance reviews. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/self_evaluation_loop_flow)  |
-| 📈 Lead Score Flow               | 💼 Sales                | Evaluates and scores potential leads to prioritize outreach in sales strategies.             | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/lead-score-flow)            |
-| 📊 Marketing Strategy Generator  | 📢 Marketing            | Develops marketing strategies by analyzing market trends and audience data.                  | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/marketing_strategy)         |
-| 📝 Job Posting Generator         | 🧑‍💼 Recruitment      | Creates job postings by analyzing job requirements, aiding in recruitment processes.         | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/job-posting)                |
-| 🔄 Recruitment Workflow          | 🧑‍💼 Recruitment      | Streamlines the recruitment process by automating various tasks involved in hiring.          | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/recruitment)                |
-| 🔍 Match Profile to Positions    | 🧑‍💼 Recruitment      | Matches candidate profiles to suitable job positions to enhance recruitment efficiency.      | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/match_profile_to_positions) |
-| 📸 Instagram Post Generator      | 📱 Social Media         | Generates and schedules Instagram posts automatically, streamlining social media management. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/instagram_post)             |
-| 🌐 Landing Page Generator        | 💻 Web Development      | Automates the creation of landing pages for websites, facilitating web development tasks.    | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/landing_page_generator)     |
-| 🎮 Game Builder Crew             | 🎮 Game Development     | Assists in the development of games by automating certain aspects of game creation.          | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/game-builder-crew)          |
-| 💹 Stock Analysis Tool           | 💰 Finance              | Provides tools for analyzing stock market data to assist in financial decision-making.       | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/stock_analysis)             |
-| 🗺️ Trip Planner                | ✈️ Travel             | Assists in planning trips by organizing itineraries and managing travel details.             | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/trip_planner)               |
-| 🎁 Surprise Trip Planner         | ✈️ Travel             | Plans surprise trips by selecting destinations and activities based on user preferences.     | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/surprise_trip)              |
-| 📚 Write a Book with Flows       | ✍️ Creative Writing   | Assists authors in writing books by providing structured workflows and writing assistance.   | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/write_a_book_with_flows)    |
-| 🎬 Screenplay Writer             | ✍️ Creative Writing   | Aids in writing screenplays by offering templates and guidance for script development.       | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/screenplay_writer)          |
-| ✅ Markdown Validator            | 📄 Documentation        | Validates Markdown files to ensure proper formatting and adherence to standards.             | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/markdown_validator)         |
-| 🧠 Meta Quest Knowledge          | 📚 Knowledge Management | Manages and organizes knowledge related to Meta Quest, facilitating information retrieval.   | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/meta_quest_knowledge)       |
-| 🤖 NVIDIA Models Integration     | 🤖 AI Integration       | Integrates NVIDIA AI models into workflows to enhance computational capabilities.            | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/nvidia_models)              |
-| 🗂️ Prep for a Meeting          | 🛠️ Productivity       | Assists in preparing for meetings by organizing materials and setting agendas.               | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/prep-for-a-meeting)         |
-| 🛠️Starter Template             | 🛠️ Development        | Provides a starter template for new projects to streamline the setup process.                | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/starter_template)           |
-| 🔗CrewAI + LangGraph Integration | 🤖 AI Integration       | Demonstrates integration between CrewAI and LangGraph for enhanced workflow automation.      |                                                                                                                                                |
+| Use Case                         | Industry                | Description                                                                                  | GitHub                                                                                                                                              |
+| -------------------------------- | ----------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📧 Email Auto Responder Flow     | 🗣️ Communication        | Automates email responses based on predefined criteria to enhance communication efficiency.  | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/flows/email_auto_responder_flow) |
+| 📝 Meeting Assistant Flow        | 🛠️ Productivity         | Assists in organizing and managing meetings, including scheduling and agenda preparation.    | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/flows/meeting_assistant_flow) |
+| 🔄 Self Evaluation Loop Flow     | 👥 Human Resources      | Facilitates self-assessment processes within an organization, aiding in performance reviews. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/flows/self_evaluation_loop_flow) |
+| 📈 Lead Score Flow               | 💼 Sales                | Evaluates and scores potential leads to prioritize outreach in sales strategies.             | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/flows/lead-score-flow) |
+| 📊 Marketing Strategy Generator  | 📢 Marketing            | Develops marketing strategies by analyzing market trends and audience data.                  | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/marketing_strategy) |
+| 📝 Job Posting Generator         | 🧑‍💼 Recruitment          | Creates job postings by analyzing job requirements, aiding in recruitment processes.         | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/job-posting) |
+| 🔄 Recruitment Workflow          | 🧑‍💼 Recruitment          | Streamlines the recruitment process by automating various tasks involved in hiring.          | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/recruitment) |
+| 🔍 Match Profile to Positions    | 🧑‍💼 Recruitment          | Matches candidate profiles to suitable job positions to enhance recruitment efficiency.      | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/match_profile_to_positions) |
+| 📸 Instagram Post Generator      | 📱 Social Media         | Generates and schedules Instagram posts automatically, streamlining social media management. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/instagram_post)             |
+| 🌐 Landing Page Generator        | 💻 Web Development      | Automates the creation of landing pages for websites, facilitating web development tasks.    | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/landing_page_generator)     |
+| 🎮 Game Builder Crew             | 🎮 Game Development     | Assists in the development of games by automating certain aspects of game creation.          | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/game-builder-crew)          |
+| 💹 Stock Analysis Tool           | 💰 Finance              | Provides tools for analyzing stock market data to assist in financial decision-making.       | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/stock_analysis)             |
+| 🗺️ Trip Planner                  | ✈️ Travel               | Assists in planning trips by organizing itineraries and managing travel details.             | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/trip_planner)               |
+| 🎁 Surprise Trip Planner         | ✈️ Travel               | Plans surprise trips by selecting destinations and activities based on user preferences.     | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/surprise_trip)              |
+| 📚 Write a Book with Flows       | ✍️ Creative Writing     | Assists authors in writing books by providing structured workflows and writing assistance.   | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/flows/write_a_book_with_flows) |
+| 🎬 Screenplay Writer             | ✍️ Creative Writing     | Aids in writing screenplays by offering templates and guidance for script development.       | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/screenplay_writer)          |
+| ✅ Markdown Validator            | 📄 Documentation        | Validates Markdown files to ensure proper formatting and adherence to standards.             | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/markdown_validator)         |
+| 🧠 Meta Quest Knowledge          | 📚 Knowledge Management | Manages and organizes knowledge related to Meta Quest, facilitating information retrieval.   | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/meta_quest_knowledge)       |
+| 🤖 NVIDIA Models Integration     | 🤖 AI Integration       | Integrates NVIDIA AI models into workflows to enhance computational capabilities.            | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/integrations/nvidia_models) |
+| 🗂️ Prep for a Meeting            | 🛠️ Productivity         | Assists in preparing for meetings by organizing materials and setting agendas.               | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/prep-for-a-meeting)         |
+| 🛠️Starter Template               | 🛠️ Development          | Provides a starter template for new projects to streamline the setup process.                | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/starter_template)           |
+| 🔗CrewAI + LangGraph Integration | 🤖 AI Integration       | Demonstrates integration between CrewAI and LangGraph for enhanced workflow automation.      | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/crewAIInc/crewAI-examples/tree/main/integrations/CrewAI-LangGraph)           |
+
 
 ### **Framework Name**: **Autogen**
 
@@ -309,6 +310,29 @@ Contributions are welcome! 🎉 Here's how you can help:
 3. Submit a pull request with your changes.
 
 Please follow our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+
+---
+
+## Star History
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=ashishpatel26/500-AI-Agents-Projects&type=date&legend=top-left
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=ashishpatel26/500-AI-Agents-Projects&type=date&legend=top-left
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=ashishpatel26/500-AI-Agents-Projects&type=date&legend=top-left"
+  />
+</picture>
 
 ---
 
